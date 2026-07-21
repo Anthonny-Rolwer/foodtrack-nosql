@@ -29,6 +29,7 @@ foodtrack
 │
 └── pedidos
 ```
+```
 FoodTrack NoSQL
 │
 ├── Clientes
@@ -51,6 +52,7 @@ FoodTrack NoSQL
     ├── Status
     ├── Valor Total
     └── Data do Pedido
+```
 ---
 
 # Coleção clientes
