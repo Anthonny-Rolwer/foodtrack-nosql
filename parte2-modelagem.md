@@ -170,6 +170,5 @@ Permite:
 3. Um novo pedido é criado selecionando o cliente e os produtos desejados.
 4. O pedido é armazenado no MongoDB contendo as informações necessárias para consulta futura.
 5. O sistema permite acompanhar e atualizar o status do pedido.
-
 ```
 ```
