@@ -35,7 +35,7 @@ A instância armazena os nós e os relacionamentos usados na análise.
 
 ### Evidência da instância
 
-![Instância FoodTrackDB](../imagens/grafo/01-instancia-foodtrackdb.png)
+![Instância FoodTrackDB](imagens/grafo/01-instancia-foodtrackdb.png)
 
 ---
 
@@ -53,7 +53,7 @@ A apresentação de uma versão confirma que o plugin foi carregado corretamente
 
 ### Evidência
 
-![Versão do Graph Data Science](../imagens/grafo/02-versao-gds.png)
+![Versão do Graph Data Science](imagens/grafo/02-versao-gds.png)
 
 ---
 
@@ -239,7 +239,7 @@ O `RETURN` devolve os nós e os relacionamentos encontrados, permitindo exibi-lo
 
 ### Evidência do grafo
 
-![Grafo de clientes e produtos](../imagens/grafo/03-grafo-clientes-produtos.png)
+![Grafo de clientes e produtos](imagens/grafo/03-grafo-clientes-produtos.png)
 
 A visualização demonstra que um cliente pode comprar vários produtos e que um produto pode estar conectado a diferentes clientes.
 
@@ -338,7 +338,7 @@ Essa orientação permite que o Node Similarity compare os clientes conectados a
 
 ### Evidência da projeção
 
-![Projeção GDS](../imagens/grafo/04-projecao-gds.png)
+![Projeção GDS](imagens/grafo/04-projecao-gds.png)
 
 Os campos apresentados no resultado são:
 
@@ -417,11 +417,11 @@ O modo `stream` devolve os resultados como uma tabela, sem alterar permanentemen
 
 ### Evidência do código
 
-![Código Node Similarity](../imagens/grafo/05-node-similarity-codigo.png)
+![Código Node Similarity](imagens/grafo/05-node-similarity-codigo.png)
 
 ### Evidência do resultado
 
-![Resultado Node Similarity](../imagens/grafo/06-node-similarity-resultado.png)
+![Resultado Node Similarity](imagens/grafo/06-node-similarity-resultado.png)
 
 ---
 
@@ -532,8 +532,8 @@ Essa consulta localiza produtos conectados pelo relacionamento `SIMILAR_A`.
 
 ### Evidência
 
-![Recomendações gravadas](../imagens/grafo/07-recomendacoes-gravadas.png)
-![Recomendações gravadas](../imagens/grafo/07.01-recomendacoes-gravadas.png)
+![Recomendações gravadas](imagens/grafo/07-recomendacoes-gravadas.png)
+![Recomendações gravadas](imagens/grafo/07.01-recomendacoes-gravadas.png)
 
 
 ---
