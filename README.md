@@ -19,7 +19,6 @@ O sistema entrega maior agilidade operacional, flexibilidade no armazenamento da
 
 
 
-## FoodTrack NoSQL
 
 ## Tecnologias:
 
