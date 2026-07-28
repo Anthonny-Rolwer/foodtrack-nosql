@@ -230,15 +230,15 @@ O pipeline gera documentos semelhantes a:
 
 ### Código
 
-![Código do Pipeline 1](../imagens/aggregation/pipeline1-codigo.png)
+![Código do Pipeline 1](imagens/aggregation/pipeline1-codigo.png)
 
 ### Saída no terminal
 
-![Saída do Pipeline 1](../imagens/aggregation/pipeline1-saida-terminal.png)
+![Saída do Pipeline 1](imagens/aggregation/pipeline1-saida-terminal.png)
 
 ### Coleção criada no MongoDB Atlas
 
-![Coleção relatorio_produtos](../imagens/aggregation/pipeline1-colecao-relatorio.png)
+![Coleção relatorio_produtos](imagens/aggregation/pipeline1-colecao-relatorio.png)
 
 ---
 
@@ -494,15 +494,15 @@ O pipeline gera documentos semelhantes a:
 
 ### Código
 
-![Código do Pipeline 2](../imagens/aggregation/pipeline2-codigo.png)
+![Código do Pipeline 2](imagens/aggregation/pipeline2-codigo.png)
 
 ### Saída no terminal
 
-![Saída do Pipeline 2](../imagens/aggregation/pipeline2-saida-terminal.png)
+![Saída do Pipeline 2](imagens/aggregation/pipeline2-saida-terminal.png)
 
 ### Coleção criada no MongoDB Atlas
 
-![Coleção campanha_clientes](../imagens/aggregation/pipeline2-colecao-campanha.png)
+![Coleção campanha_clientes](imagens/aggregation/pipeline2-colecao-campanha.png)
 
 ---
 
