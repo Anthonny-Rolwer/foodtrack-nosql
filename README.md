@@ -15,3 +15,25 @@ Gerenciamento de pedidos em tempo real, permitindo criar, atualizar e acompanhar
 ## Valor Entregue
 
 O sistema entrega maior agilidade operacional, flexibilidade no armazenamento das informações e facilidade de adaptação às mudanças do negócio, características proporcionadas pelo uso de banco de dados NoSQL.
+
+
+
+
+## FoodTrack NoSQL
+
+## Tecnologias:
+
+• MongoDB Atlas
+• Streamlit
+• Redis
+• Neo4j
+• Graph Data Science
+
+## Etapas implementadas:
+
+✔ CRUD
+✔ Dashboard
+✔ Aggregation Pipelines
+✔ Redis
+✔ Neo4j GDS
+
